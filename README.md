@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**oskarhertzman/oskarhertzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In lines of code, a canvas unfolds,
+Frontend whispers, stories told.
+HTML structures, a foundation laid,
+CSS styles, in colors arrayed.
 
-Here are some ideas to get you started:
+JavaScript dances, dynamic and free,
+Interactivity, a symphony.
+Pixels align, responsive design,
+A web of art, in browsers shine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through divs and spans, a tale unfolds,
+Frontend magic, where beauty molds.
+With each click and hover's grace,
+A user's journey, a digital embrace.
