@@ -1,3 +1,2 @@
-### <img src="./banner.png" width="100%">
-
+![Header](./banner.png)
 
