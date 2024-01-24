@@ -1,2 +1,2 @@
-![Header](./banner.png)
+![Header](./banner.gif)
 
