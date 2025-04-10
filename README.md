@@ -11,7 +11,3 @@
   animation: Passion 3s infinite;
 }
 ```
-
-## Activity
-
-![Image](https://github-readme-stats.vercel.app/api/wakatime?username=oskarhertzman&hide_title=true&hide_border=true&langs_count=5&bg_color=0E1116&text_color=FFFFFF)
