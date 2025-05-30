@@ -3,11 +3,13 @@
 
 ```css
 #oskarhertzman {
-  position: EC Solutions AB;
-  margin: 0 !important;
-  writing-mode: horizontal-tb;
-  contain: strict;
-  transition: LifeJourney 0.7s ease-in-out;
-  animation: Passion 3s infinite;
+  position: Software Developer at EC Solutions AB;
+  display: Swedish;
+  background: linear-gradient(to top, var(--effort), var(--creativity));
+  font-family: "Open Mind", "Curiosity", sans-serif;
+  animation: grow 1s infinite knowledge;
+  border-radius: limitless;
+  user-select: awesome;
+  overflow: passion;
 }
 ```
